@@ -83,6 +83,8 @@ collections:
   people:
     output: true
     permalink: /people/:path/
+  teaching:
+
 
 news_limit: 10
 
