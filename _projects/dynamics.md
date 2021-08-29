@@ -3,7 +3,7 @@ layout: page
 title: Dynamics of Fairness
 img: /img/fair_dynamics.png
 description: how does fairness generalize
-importance: 3
+importance: 4
 ---
 
 
