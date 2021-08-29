@@ -1,9 +1,9 @@
 ---
 layout: tilesteaching
 permalink: /outreach/
-title: Outreach
+title: outreach
 description: Outreach Activities
 nav: true
 ---
 
-Our lab has done outreach with the TD STEM Academy. 
+Our lab has done outreach with the TD STEM Academy.
