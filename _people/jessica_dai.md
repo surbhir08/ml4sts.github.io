@@ -4,7 +4,7 @@ name: Jessica Dai
 role: undergraduate RA at Brown
 importance: 3
 status: alumni
-next: arthur.ai
+nextposition: arthur.ai
 ---
 
 
