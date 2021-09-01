@@ -1,9 +1,9 @@
 ---
 layout: page
 name: Jake Afonso
-role: URI Arts & Sciences Fellow
+role: 2021 URI Arts & Sciences Fellow 
 importance: 5
-status: active
+status: alumni
 ---
 
 
