@@ -1,5 +1,5 @@
 ---
-layout: people
+layout: tilespeople
 tilecollection: people
 title: members
 permalink: /people/
