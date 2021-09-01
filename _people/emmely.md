@@ -1,8 +1,9 @@
 ---
 layout: page
 name: Emmely Trejo Alvarez
-role: undergraduate
+role: graduate
 importance: 2
+status: active
 ---
 
 

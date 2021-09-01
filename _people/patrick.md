@@ -1,8 +1,8 @@
 ---
-layout: profile
-name: Kweku Kwekir-Aggrey
-role: PhD affiliate at Brown
-importance: 4
+layout: page
+name: Patrick Dowd
+role: Undergraduate RA
+importance: 5
 status: active
 ---
 

@@ -5,6 +5,7 @@ role: Undergraduate, URI
 importance: 7
 github: zeeedina2016    
 website: http://edinaz.com
+status: alumni
 ---
 
 

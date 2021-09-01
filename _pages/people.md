@@ -1,7 +1,7 @@
 ---
-layout: tiles
+layout: people
 tilecollection: people
-title: people
+title: members
 permalink: /people/
 description: Members of the ML4STS Lab.
 nav: true
